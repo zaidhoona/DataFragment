@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/list_item"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="@dimen/view_holder_bottom_margin"
+    android:layout_marginEnd="@dimen/view_holder_end_margin"
+    android:layout_marginLeft="@dimen/view_holder_start_margin"
+    android:layout_marginRight="@dimen/view_holder_end_margin"
+    android:layout_marginStart="@dimen/view_holder_start_margin"
+    android:layout_marginTop="@dimen/view_holder_top_margin" />

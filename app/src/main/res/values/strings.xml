@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FeaturesDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="main_menu_items">
+        <item>Data Fragment</item>
+    </string-array>
+
+    <string name="intent_action">Launch Fragment</string>
+</resources>
